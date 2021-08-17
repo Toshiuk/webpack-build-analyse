@@ -1,7 +1,7 @@
 {
-  "name": "commonJSSeparatedImportAnalyse",
+  "name": "commonJSSeparatedImportAnalyze",
   "version": "1.0.0",
-  "description": "CommonJS separated import analyse",
+  "description": "CommonJS separated import analyze",
   "private": true,
   "license": "MIT",
   "scripts": {

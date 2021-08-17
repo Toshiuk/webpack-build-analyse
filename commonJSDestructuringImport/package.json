@@ -1,7 +1,7 @@
 {
-  "name": "commonJSDestructuringImportAnalyse",
+  "name": "commonJSDestructuringImportAnalyze",
   "version": "1.0.0",
-  "description": "CommonJS destructuring import analyse",
+  "description": "CommonJS destructuring import analyze",
   "private": true,
   "license": "MIT",
   "scripts": {

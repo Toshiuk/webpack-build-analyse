@@ -12,7 +12,7 @@ const component = () => {
 
   const element = document.createElement("div");
 
-  element.innerHTML = `Build size analyse - Lodash commonJS full import - <a href="./report.html"> Analyse </a>`;
+  element.innerHTML = `Build size analyze - Lodash commonJS full import - <a href="./report.html"> Analyze </a>`;
 
   return element;
 };

@@ -1,7 +1,7 @@
 {
-  "name": "commonJSFullImportAnalyse",
+  "name": "commonJSFullImportAnalyze",
   "version": "1.0.0",
-  "description": "CommonJS full import analyse",
+  "description": "CommonJS full import analyze",
   "private": true,
   "license": "MIT",
   "scripts": {

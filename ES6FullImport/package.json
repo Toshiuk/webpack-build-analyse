@@ -1,7 +1,7 @@
 {
-  "name": "ES6FullImportAnalyse",
+  "name": "ES6FullImportAnalyze",
   "version": "1.0.0",
-  "description": "ES6 full import analyse",
+  "description": "ES6 full import analyze",
   "private": true,
   "license": "MIT",
   "scripts": {
