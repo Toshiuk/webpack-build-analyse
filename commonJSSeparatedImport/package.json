@@ -1,0 +1,18 @@
+{
+  "name": "commonJSSeparatedImportAnalyse",
+  "version": "1.0.0",
+  "description": "CommonJS separated import analyse",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config=webpack.config.js"
+  },
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-bundle-analyzer": "^4.4.2",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

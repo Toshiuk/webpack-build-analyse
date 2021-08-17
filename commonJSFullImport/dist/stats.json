@@ -1,0 +1,1156 @@
+{
+  "hash": "42097a429d8b434bceb9",
+  "version": "5.50.0",
+  "time": 2064,
+  "builtAt": 1629229246115,
+  "publicPath": "auto",
+  "outputPath": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\dist",
+  "assetsByChunkName": {
+    "main": [
+      "main.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "main.js",
+      "size": 71455,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "minimized": true,
+        "related": {
+          "license": "main.js.LICENSE.txt"
+        },
+        "size": 71455
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "license",
+          "name": "main.js.LICENSE.txt",
+          "size": 336,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "extractedComments": true,
+            "size": 336
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        179
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 545722,
+      "sizes": {
+        "javascript": 544715,
+        "runtime": 1007
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "auxiliaryFiles": [],
+      "hash": "2b7b279afe4701a36057",
+      "childrenByOrder": {},
+      "id": 179,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 544098,
+          "sizes": {
+            "javascript": 544098
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "name": "./node_modules/lodash/lodash.js",
+          "nameForCondition": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "issuerName": "./src/app.js",
+          "issuerPath": [
+            {
+              "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "name": "./src/app.js",
+              "id": 672
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 486,
+          "issuerId": 672,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:50-57",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:62-78",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "439:82-89",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:63-69",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:74-80",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "442:93-99",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "module": "./node_modules/lodash/lodash.js",
+              "moduleName": "./node_modules/lodash/lodash.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+              "resolvedModule": "./node_modules/lodash/lodash.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "17209:7-11",
+              "moduleId": 486,
+              "resolvedModuleId": 486
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "1:0-28",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "5:2-14",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "6:2-16",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "7:2-19",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "8:2-21",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "9:2-13",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "10:2-18",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            },
+            {
+              "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "module": "./src/app.js",
+              "moduleName": "./src/app.js",
+              "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+              "resolvedModule": "./src/app.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "lodash",
+              "loc": "11:2-13",
+              "moduleId": 672,
+              "resolvedModuleId": 672
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: this is used directly at 17209:7-11",
+            "CommonJS bailout: exports is used directly at 439:50-57",
+            "CommonJS bailout: exports is used directly at 439:82-89",
+            "Statement (ExpressionStatement) with side effects in source code at 9:1-17209:14",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 617,
+          "sizes": {
+            "javascript": 617
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "name": "./src/app.js",
+          "nameForCondition": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 672,
+          "issuerId": null,
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./src/app.js",
+              "loc": "main",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 20:0-39",
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/lodash/lodash.js: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 221,
+          "sizes": {
+            "runtime": 221
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/global",
+          "name": "webpack/runtime/global",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 123,
+          "sizes": {
+            "runtime": 123
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/node module decorator",
+          "name": "webpack/runtime/node module decorator",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            179
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src/app.js"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 617,
+      "sizes": {
+        "javascript": 617
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+      "name": "./src/app.js",
+      "nameForCondition": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 672,
+      "issuerId": null,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./src/app.js",
+          "loc": "main",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 20:0-39",
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/lodash/lodash.js: Module is not an ECMAScript module"
+      ],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 544098,
+      "sizes": {
+        "javascript": 544098
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+      "name": "./node_modules/lodash/lodash.js",
+      "nameForCondition": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+      "issuerName": "./src/app.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "name": "./src/app.js",
+          "id": 672
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 486,
+      "issuerId": 672,
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:50-57",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:62-78",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "439:82-89",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:63-69",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:74-80",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "442:93-99",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "module": "./node_modules/lodash/lodash.js",
+          "moduleName": "./node_modules/lodash/lodash.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\node_modules\\lodash\\lodash.js",
+          "resolvedModule": "./node_modules/lodash/lodash.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "17209:7-11",
+          "moduleId": 486,
+          "resolvedModuleId": 486
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "1:0-28",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "5:2-14",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "6:2-16",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "7:2-19",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "8:2-21",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "9:2-13",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "10:2-18",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        },
+        {
+          "moduleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "module": "./src/app.js",
+          "moduleName": "./src/app.js",
+          "resolvedModuleIdentifier": "C:\\Users\\flavi\\Documents\\BuildSizeReduceImport\\commonJSFullImport\\src\\app.js",
+          "resolvedModule": "./src/app.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "lodash",
+          "loc": "11:2-13",
+          "moduleId": 672,
+          "resolvedModuleId": 672
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: this is used directly at 17209:7-11",
+        "CommonJS bailout: exports is used directly at 439:50-57",
+        "CommonJS bailout: exports is used directly at 439:82-89",
+        "Statement (ExpressionStatement) with side effects in source code at 9:1-17209:14",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 221,
+      "sizes": {
+        "runtime": 221
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/global",
+      "name": "webpack/runtime/global",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 123,
+      "sizes": {
+        "runtime": 123
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/node module decorator",
+      "name": "webpack/runtime/node module decorator",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        179
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        179
+      ],
+      "assets": [
+        {
+          "name": "main.js",
+          "size": 71455
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 71455,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        179
+      ],
+      "assets": [
+        {
+          "name": "main.js",
+          "size": 71455
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 71455,
+      "auxiliaryAssets": [],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 0,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": []
+}
